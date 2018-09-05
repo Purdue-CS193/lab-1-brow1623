@@ -2,4 +2,4 @@
 
 - The TAs
 - The atmosphere
-- The coursework
+- The lab work
